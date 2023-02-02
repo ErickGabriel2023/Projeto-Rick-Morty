@@ -28,18 +28,21 @@ body {
     font-weight: bold;
     color: rgb(255, 255, 255);
     font-size: 30px;
-    padding: 10px 20px;
+    padding: 10px 30px;
     border-radius: 30px;
     transition: 0.3;
+    transform: skewX(19.6deg);
+    box-shadow: 0 0 20px lime;
 }
 
 .cabecalho nav li a:hover {
-    background-color: rgb(53, 149, 9);
+    background-color: rgb(63, 161, 18);
   
 }
 
-.Rick-Morty:hover {
-    transform: scale(1.1);
+.Rick-Morty {
+    transform: translateY(0);
+    animation: float 3s infinite alternate;
 }
 
 .container .descricao:hover {
@@ -79,6 +82,8 @@ body {
    border-radius: 30px;
    text-transform: uppercase;
    transition: 0.5s all ease-in-out;
+   transform: skewX(19.6deg);
+   box-shadow: 0 0 20px rgb(0, 255, 42);
 }
 
 .container .botao-trailer{
@@ -92,13 +97,18 @@ body {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    
-     
 }
 
+
+
 .fundo-imagem::after {
-    content:"";     
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(0,0,0,1) 100%);
+    content:"";
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;     
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,1) 100%);
 }
 
 
