@@ -1,3 +1,5 @@
+# <div align="center"><a href="https://erickgabriel2023.github.io/Projeto-Rick-Morty/"><img width="70px" src="./ico.png" alt="projeto Rick-Morty"></a></div>
+
 <h1 align="center">🎬Projeto Rick and Morty - 1º temporada🎬</h1>
 <br>
 <h2 align="center" >👋 Óla tudo Bem, esse é o meu primeiro projeto que eu faço, ele ficou bem simples, mas, bem intuitivo </h2> 
@@ -38,7 +40,6 @@
 <br>
 <br>
 <h4>Até a próxima - bye bye 😉
-
 
 
 
