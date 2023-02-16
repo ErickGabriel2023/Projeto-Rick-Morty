@@ -32,7 +32,7 @@
 - Git e GitHub
 <br>
 <br>
-## Minha rede do Linkedin 🌐
+<h4>Minha rede do Linkedin 🌐</h4>
 <br>
 <p>Se você poder seguir o meu perfil do Linkedin e do GitHub, eu estarei muito grato, e também seguirei você de volta </p>
 <br>
