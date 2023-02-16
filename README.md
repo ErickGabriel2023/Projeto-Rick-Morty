@@ -18,7 +18,7 @@
 <br>
 <h3 align="center">Página segundaria do site</h3>
 <a href="https://erickgabriel2023.github.io/Projeto-Rick-Morty/index2.html" traget=_blank>
-<img src="./foto 2.jpeg">
+<img src="./">
 </a>
 <br>
 <br>

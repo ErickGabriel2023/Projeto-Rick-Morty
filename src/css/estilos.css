@@ -155,3 +155,15 @@ body {
     visibility: visible;
 }
 
+.cabecalho .icon-logo {
+    margin-right: 800px;
+    padding: 10px;
+   
+    
+}
+
+.cabecalho .icon-logo:hover {
+    transform: scale(1.1);
+    align-items: ;
+}
+
