@@ -99,7 +99,9 @@ body {
     overflow: hidden;
 }
 
-
+.imagem {
+    width: 100%;
+}
 
 .fundo-imagem::after {
     content:"";
@@ -158,12 +160,11 @@ body {
 .cabecalho .icon-logo {
     margin-right: 800px;
     padding: 10px;
-   
     
 }
 
 .cabecalho .icon-logo:hover {
     transform: scale(1.1);
-    align-items: ;
+    
 }
 
